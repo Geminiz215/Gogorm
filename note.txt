@@ -1,0 +1,7 @@
+https://github.com/gin-contrib/sessions
+
+{
+	"username": "hathat",
+	"email":"hathat@gmail.com",
+	"password" : "hathard"
+}
